@@ -32,7 +32,7 @@ Interactive version (Tableau Public): [https://public.tableau.com/app/profile/ai
 | File | Description |
 |---|---|
 | `[DHL_GHG_Project.xlsx]` | Source-traced data, analysis, target gap and ESRS E1 checklist |
-| `[1GHG Performance Analysis of DHL Group..pdf]` | Full written report |
+|  https://github.com/aiswarya-kuniyil/GHG-Performance-Analysis_DHL-Group_FY2021-FY2025./tree/main | Full written report |
 
 
 ## Frameworks
