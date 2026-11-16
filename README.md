@@ -31,8 +31,8 @@ Interactive version (Tableau Public): [https://public.tableau.com/app/profile/ai
 ## Files
 | File | Description |
 |---|---|
-| `[DHL_GHG_Project.xlsx]` | Source-traced data, analysis, target gap and ESRS E1 checklist |
-|  https://github.com/aiswarya-kuniyil/GHG-Performance-Analysis_DHL-Group_FY2021-FY2025./tree/main | Full written report |
+| [Excel_Project](./DHL_GHG_Project.xlsx) | Source-traced data, analysis, target gap and ESRS E1 checklist |
+|  [Report_Project](https://github.com/aiswarya-kuniyil/GHG-Performance-Analysis_DHL-Group_FY2021-FY2025./tree/main) | Full written report |
 
 
 ## Frameworks
