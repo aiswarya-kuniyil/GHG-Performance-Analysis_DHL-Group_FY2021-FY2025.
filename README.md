@@ -23,16 +23,16 @@ DHL is ahead of its total 2030 target on paper, but its own Scope 1+2 emissions 
 | Realised decarbonisation effects (Mt) | 0.728 | 2.083 | — |
 
 ## Dashboard
-![Dashboard](<img width="2398" height="1598" alt="Dashboard 1" src="https://github.com/user-attachments/assets/19fe2a2e-868d-485b-a9c4-bd798c6f0c75" />
-)
+<img width="2398" height="1598" alt="Dashboard 1" src="https://github.com/user-attachments/assets/19fe2a2e-868d-485b-a9c4-bd798c6f0c75" />
+
 
 Interactive version (Tableau Public): [https://public.tableau.com/app/profile/aiswarya.kuniyil/viz/DHL_GHGperformance_Analysis/Dashboard1]
 
 ## Files
 | File | Description |
 |---|---|
-| `DHL_GHG_Project.xlsx` | Source-traced data, analysis, target gap and ESRS E1 checklist |
-| `1GHG Performance Analysis of DHL Group..pdf` | Full written report |
+| `[DHL_GHG_Project.xlsx]` | Source-traced data, analysis, target gap and ESRS E1 checklist |
+| `[1GHG Performance Analysis of DHL Group..pdf]` | Full written report |
 
 
 ## Frameworks
